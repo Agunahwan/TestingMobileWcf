@@ -1,0 +1,4 @@
+E:\Data Inspiro\Training\Session 2\TestingMobileWcf\TestingMobileWcf\bin\TestingMobileWcf.dll
+E:\Data Inspiro\Training\Session 2\TestingMobileWcf\TestingMobileWcf\bin\TestingMobileWcf.pdb
+E:\Data Inspiro\Training\Session 2\TestingMobileWcf\TestingMobileWcf\obj\Debug\TestingMobileWcf.dll
+E:\Data Inspiro\Training\Session 2\TestingMobileWcf\TestingMobileWcf\obj\Debug\TestingMobileWcf.pdb
